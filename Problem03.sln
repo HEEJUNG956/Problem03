@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3페이지 level 1 04번 - 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3페이지 level 1 05번 - 최소직사각형", "3페이지 level 1 05번 - 최소직사각형\3페이지 level 1 05번 - 최소직사각형.csproj", "{24E69847-FC4B-46AD-9413-8A8ABE2A9772}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3페이지 level 1 06번 - 2016년", "3페이지 level 1 06번 - 2016년\3페이지 level 1 06번 - 2016년.csproj", "{AA6699CB-4D7D-4CE4-9408-DB4467456A6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{24E69847-FC4B-46AD-9413-8A8ABE2A9772}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24E69847-FC4B-46AD-9413-8A8ABE2A9772}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24E69847-FC4B-46AD-9413-8A8ABE2A9772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA6699CB-4D7D-4CE4-9408-DB4467456A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA6699CB-4D7D-4CE4-9408-DB4467456A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA6699CB-4D7D-4CE4-9408-DB4467456A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA6699CB-4D7D-4CE4-9408-DB4467456A6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
