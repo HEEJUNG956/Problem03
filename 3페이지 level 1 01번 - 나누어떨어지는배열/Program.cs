@@ -10,7 +10,17 @@ namespace _3페이지_level_1_01번___나누어떨어지는배열
     {
         static void Main(string[] args)
         {
-            int[] arr = {int.Parse(Console.ReadLine()), int.Parse(Console.ReadLine()) , int.Parse(Console.ReadLine()) };
+            Console.Write("처음배열숫자 입력하기 => ");
+            int a = int.Parse(Console.ReadLine());
+            Console.Write("두번째배열숫자 입력하기 => ");
+            int b = int.Parse(Console.ReadLine());
+            Console.Write("세번째배열숫자 입력하기 => ");
+            int c = int.Parse(Console.ReadLine());
+            Console.Write("네번째배열숫자 입력하기 => ");
+            int d = int.Parse(Console.ReadLine());
+            
+            int[] arr = {a, b, c, d };
+            Console.Write("나누는 숫자 입력하기 => ");
             int divisor = int.Parse(Console.ReadLine());
             List<int> result = new List<int>();
 

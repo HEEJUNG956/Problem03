@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3페이지 level 1 07번 - 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3페이지 level 1 08번 - 예산", "3페이지 level 1 08번 - 예산\3페이지 level 1 08번 - 예산.csproj", "{F6C4E11F-4D19-43EA-B171-BD7FD699AE80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3페이지 level 1 09번 - 3진법뒤집기", "3페이지 level 1 09번 - 3진법뒤집기\3페이지 level 1 09번 - 3진법뒤집기.csproj", "{AFCADA0A-7DA7-4EB7-9FA8-E4370E05DFA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{F6C4E11F-4D19-43EA-B171-BD7FD699AE80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6C4E11F-4D19-43EA-B171-BD7FD699AE80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6C4E11F-4D19-43EA-B171-BD7FD699AE80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCADA0A-7DA7-4EB7-9FA8-E4370E05DFA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCADA0A-7DA7-4EB7-9FA8-E4370E05DFA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCADA0A-7DA7-4EB7-9FA8-E4370E05DFA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCADA0A-7DA7-4EB7-9FA8-E4370E05DFA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
