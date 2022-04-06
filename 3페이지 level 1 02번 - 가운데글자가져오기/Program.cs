@@ -16,6 +16,18 @@ namespace _3페이지_level_1_02번___가운데글자가져오기
             int b = s.Length / 2 - a;
 
             Console.WriteLine("반환된 문자 => " + s.Substring(b, a + 1));
+            
+            /*
+            새로운 방법
+            string answer = "";
+        
+            int a = s.Length / 2;
+            if(s.Length % 2 == 0)
+                answer = s.Substring(a - 1, 2);
+            else
+                answer = s.Substring(a,1);
+            return answer;
+            */
         }
     }
 }
